@@ -9,6 +9,24 @@ All notable changes to this repository are documented here from confirmed git hi
 
 ## 2026-03-14
 
+- Updated `codeql.yml`.
+- Added `SECURITY.md`.
+
+## 2026-03-12
+
+- Added a signed stamp artifact.
+
+## 2026-03-08
+
+- Added a PowerShell build script.
+
+## 2026-02-25
+
+- Added CodeQL workflow configuration.
+- Added `.gitignore`.
+
+## 2026-02-24
+
 - Added a signed stamp artifact.
 
 ## 2026-03-13
